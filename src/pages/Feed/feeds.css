@@ -1,0 +1,13 @@
+.header-info {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	align-items: center;
+}
+
+.update-feeds-icon {
+	position: absolute;
+	right: 0;
+	font-size: 2rem;
+	cursor: pointer;
+}

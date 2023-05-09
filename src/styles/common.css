@@ -1,0 +1,118 @@
+.h-84vh {
+	height: 84vh;
+}
+
+/* Margins */
+.m-auto {
+	margin: 0 auto;
+}
+
+.mt-1 {
+	margin-top: 1rem;
+}
+
+.mt-2 {
+	margin-top: 2rem;
+}
+
+.mb-2 {
+	margin-bottom: 2rem;
+}
+
+.mt-3 {
+	margin-top: 3rem;
+}
+
+.ml-1 {
+	margin-left: 1rem;
+}
+
+.mr-1 {
+	margin-right: 1rem;
+}
+
+.mx-05 {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
+
+.mx-1 {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+.w-auto {
+	width: auto;
+}
+
+.w-fit {
+	width: -moz-fit-content;
+	width: fit-content;
+}
+
+.w-100 {
+	width: 100%;
+}
+
+.fc-primary {
+	color: var(--clr-accent-400);
+}
+
+.fs-900 {
+	font-size: var(--fs-700);
+}
+
+.font-bold {
+	font-weight: var(--fw-bold);
+}
+
+.font-italic {
+	font-style: italic;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-underline {
+	text-decoration: underline;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.flex-right {
+	display: flex;
+	justify-content: end;
+	align-items: center;
+}
+
+.flex-left {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+
+.flex-between-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: start;
+}
+
+.flex-between-center {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.border-300 {
+	border: 1px solid var(--clr-neutral-300);
+	border-radius: 1rem;
+}
